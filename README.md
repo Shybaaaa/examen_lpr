@@ -9,3 +9,5 @@ Ce dépôt contient le projet complet réalisé dans le cadre de l'examen de l�
 - `examen_lpr.sql` : Script SQL de la base de données à importer (MySQL/MariaDB recommandé).
 
 Chaque dossier contient un `README.md` dédié avec les instructions techniques correspondantes.
+
+Le MDP de chaque utilisateur est : 12345678
