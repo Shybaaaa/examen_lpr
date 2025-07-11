@@ -41,18 +41,7 @@ npm run preview
 ```
 
 - Les fichiers optimisés seront générés dans le dossier `dist/`.
-
-## 🧪 Linter & vérification du code
-
-- Pour vérifier la qualité du code :
-  ```bash
-  npm run lint
-  ```
-- Pour corriger automatiquement certains problèmes :
-  ```bash
-  npm run lint -- --fix
-  ```
-
+  
 ## 📚 Fonctionnalités principales
 
 - **Inscription / Connexion** avec gestion des rôles (admin, organisateur, utilisateur)
@@ -84,12 +73,3 @@ npm run preview
 - Axios
 - React Hot Toast
 - TailwindCSS
-
-## ✨ Conseils
-
-- Pour modifier les rôles ou les droits, voir la logique dans `Navbar.tsx` et les routes protégées.
-- Pour ajouter des pages, créez un fichier dans `src/pages/` et ajoutez la route dans `src/main.tsx`.
-
----
-
-**Bon développement avec Eventify !**
